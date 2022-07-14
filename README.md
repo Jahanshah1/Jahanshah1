@@ -4,5 +4,17 @@
 - Distinction rank ( highest in grade awarded ) in Python programming exam conducted by Aptech ( Indias best IT learning institute ) 
 
 ## Techstack 
+- Python 
+- Javascript 
+- HTML/CSS
+- Solidity
+- Openzeppelin
+- Pandas 
+- Numpy 
+- FBProphet
+- React.js
+- Node.js
+- Kaboom.js
+
 
 
