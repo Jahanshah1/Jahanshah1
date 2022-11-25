@@ -1,5 +1,5 @@
 ## About me 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanshah1)](https://github.com/anuraghazra/github-readme-stats)
+
 - Ethereum Community Conference Global hackathon ( Europe's largest Ethereum hackathon ) '22 CELO track winner 
 - FiveHacks global app development hackathon '22 winner
 - Certified Blockchsin Architect [(CBA)](https://drive.google.com/file/d/1mtQN2pjFnpxrjcc2H3bOtovvl1oOVNk6/view) by Blockchain Council. Hands-on experience with many       projects like creating and deploying ERC20, ERC721 and on-chain governance (DAOs) smart contracts on multiple public blockchains. Enthused Machine Learningb developer   with experience in Regressive models for time series analysis. 
@@ -22,3 +22,4 @@
 
  ### Link to my [CV](https://drive.google.com/file/d/1Xf9Ao4ZQr4eEmDl7lo87QOcPfkiDezP-/view?usp=sharing)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanshah1)](https://github.com/anuraghazra/github-readme-stats)
