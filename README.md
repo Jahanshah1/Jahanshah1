@@ -22,4 +22,5 @@
 
  ### Link to my [CV](https://drive.google.com/file/d/1Xf9Ao4ZQr4eEmDl7lo87QOcPfkiDezP-/view?usp=sharing)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jahanshah1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahanshah1)](https://github.com/anuraghazra/github-readme-stats)
