@@ -22,7 +22,7 @@
 
  ### Link to my [CV](https://drive.google.com/file/d/1Xf9Ao4ZQr4eEmDl7lo87QOcPfkiDezP-/view?usp=sharing)
  
- <a href="#DhrumiShah_stats">
+ <a href="#Jahan Shah stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanshah1&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jahanshah1" />
 </a>
 <br />
