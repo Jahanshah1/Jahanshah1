@@ -17,8 +17,8 @@
 - Numpy 
 - FBProphet
 - React.js
+- Next.js
 - Node.js
-- Kaboom.js
 
  ### Link to my [CV](https://drive.google.com/file/d/1Xf9Ao4ZQr4eEmDl7lo87QOcPfkiDezP-/view?usp=sharing)
  
