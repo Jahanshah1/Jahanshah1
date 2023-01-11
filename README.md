@@ -20,7 +20,7 @@
 - Next.js
 - Node.js
 
- ### Link to my [CV](https://drive.google.com/file/d/1Xf9Ao4ZQr4eEmDl7lo87QOcPfkiDezP-/view?usp=sharing)
+ ### Link to my [CV](https://drive.google.com/file/d/1P2V-aZe4K-cNYSaUtSUx4mdCXccyqFCs/view?usp=sharing)
  
  <a href="#Jahan Shah stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanshah1&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jahanshah1" />
